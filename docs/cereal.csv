@@ -1,4 +1,4 @@
-name,manf,age,type,colories,protein,fat,sodium,fiber,carb,sugar,shelf,potassium,vit,weight,serving
+name,manf,age,type,calories,protein,fat,sodium,fiber,carb,sugar,shelf,potassium,vit,weight,serving
 100%_Bran,Nabisco,adult,cold,70,4,1,130,10,5,6,3,280,25,1,0.33
 100%_Natural_Bran,Quaker_Oats,adult,cold,120,3,5,15,2,8,8,3,135,0,1,-1
 All-Bran,Kelloggs,adult,cold,70,4,1,260,9,7,5,3,320,25,1,0.33
